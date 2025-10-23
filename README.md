@@ -53,4 +53,4 @@ All experiments were conducted under identical training configurations, with and
 ### 📄 Report
 
 A detailed experimental **report with graphs, training curves, and analysis** is included in this repository.  
-Refer to `CBAM_Report.pdf` for complete results and implementation details.
+Refer to `CBAM Performance Analysis.pdf` for complete results and implementation details.
